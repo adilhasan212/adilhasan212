@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Adil Hasan
-- 👀 I’m interested in developing my skills to improve my ability to work as a future software engineer.
+- 👀 I’m a software engineer with a focus on backend development and platform engineering.
 - 🌱 I’m currently majoring in software engineering at the University of Texas at Dallas.
-- 💞️ I’m currently looking for oppurtunities like internships to help me gain new experiences and abilities as a software engineer.
